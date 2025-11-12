@@ -113,4 +113,23 @@ The dataset is read using `pandas.read_csv()` and the first few rows are display
 ---
 
 ## 📂 File Structure
+Insurance.project/
+│
+├── Copy_of_Insurance.ipynb # Main Jupyter Notebook file
+├── README.md # Project documentation
+└── dataset.csv (optional) # Dataset file (if uploaded)
 
+
+---
+
+## 👨‍💻 Author
+
+**Rizwan**  
+AI/ML Developer | Python Programmer | Data Science Learner  
+
+📧 rizwanalam707040@gmail.com  
+🌐 GitHub: [https://github.com/rizwan-ai-ml](https://github.com/rizwan-ai-ml)
+
+---
+
+⭐ *If you found this project helpful, please give it a star on GitHub!*  
